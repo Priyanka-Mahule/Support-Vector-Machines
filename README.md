@@ -3,7 +3,8 @@
 1) Salary_Data:-
     1.SalaryData-Test
     
-    3.SalaryData-Train
+    2.SalaryData-Train
+    
 Prepare a classification model using SVM for salary data  
 
 
